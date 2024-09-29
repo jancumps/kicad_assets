@@ -6,5 +6,6 @@ TI LMG5200 GaN FET
 
 Symbols:  
 Renesas RX23E-A  
+Renesas RX23E-B  
 Rohm US6M2 complementary MOSFET pair  
 Diodes Inc DMC2700UDM1 complementary MOSFET pair  
